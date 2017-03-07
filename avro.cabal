@@ -87,3 +87,4 @@ test-suite test
                      , semigroups
                      , tagged
                      , hspec
+                     , QuickCheck
